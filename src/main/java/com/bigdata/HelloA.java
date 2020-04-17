@@ -8,7 +8,7 @@ public class HelloA {
 
 
 		System.out.println("777");
-
+		System.out.println("weixin");
 
 	}
 }
